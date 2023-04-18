@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.googleresmi {
+    margin-left: 460px;
+}
+.searchbar {
+    background-color: lightgrey;
+    padding-top: 0px;
+    padding-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 80px;
+    height: 45px;
+    
+    
+}
+.googlesearch {
+    margin-left: 460px;
+}
+
+.researches{
+    background-color: lightblue;
+    margin-left: 50px;
+    width: 450px;
+    height: 80px;
+    margin-top: 10px;
+    text-align: center;
+    display: inline-block;
+    
+}
+.about {
+    background-color: lightskyblue;
+    margin-top: 10px;
+    display: inline-block;
+    width: 200px;
+    height: 80px;
+    font-size: 12px;
+    text-align: center;
+}
+.contact {
+    display: inline-block;
+    background-color: lightseagreen;
+    height: 80px;
+    width: 500px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.block-container * {
+    vertical-align: top;
+}
+
